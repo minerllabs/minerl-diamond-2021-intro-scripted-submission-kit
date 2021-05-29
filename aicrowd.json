@@ -1,0 +1,7 @@
+{
+  "challenge_id": "neurips-2021-minerl-diamond-competition",
+  "authors": ["Organizers"],
+  "tags": "intro",
+  "description": "A baseline solution using scripted behaviour",
+  "gpu": false
+}
